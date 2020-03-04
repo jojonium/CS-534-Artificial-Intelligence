@@ -2,6 +2,14 @@
 
 Projects and notes for the WPI graduate class CS 534: Artificial Intelligence.
 
+Projects for this class are separated into their own repositories, and added
+here as submodules. To clone these as well, do:
+
+```
+$ git submodule init
+$ git submodule update
+```
+
 ## Project 1
 
 Project 1 is made up of two parts. For the first part, we use both A* and
